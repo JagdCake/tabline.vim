@@ -8,6 +8,9 @@
 "              Want To Public License, Version 2, as published by Sam Hocevar.
 "              See http://sam.zoy.org/wtfpl/COPYING for more details.
 " Based On:    http://www.offensivethinking.org/data/dotfiles/vimrc
+" Updates:     Ivo Angelov <jagdcake@tuta.io> 2019-11-18
+"              - made tabline look like the tabline from vim-ctrlspace,
+"              only without the 'X' at the end
 
 " Bail quickly if the plugin was loaded, disabled or compatible is set
 if (exists("g:loaded_tabline_vim") && g:loaded_tabline_vim) || &cp
