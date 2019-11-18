@@ -22,14 +22,8 @@ Based on settings found from [offensive
 thinking](http://www.offensivethinking.org/data/dotfiles/vimrc).
 
 ## Installation
-If you don't have a preferred installation method, I recommend
-installing [pathogen.vim](https://github.com/tpope/vim-pathogen), and
-then simply copy and paste:
-
-```
-cd ~/.vim/bundle
-git clone git://github.com/mkitt/tabline.vim.git
-```
+Using [vim-plug](https://github.com/junegunn/vim-plug), add `Plug 'JagdCake/tabline.vim'`
+in your .vimrc or init.vim, then restart vim and run `:PlugInstall tabline.vim`.
 
 ## Configuration
 Currently there are no configuration variables to define, you either
