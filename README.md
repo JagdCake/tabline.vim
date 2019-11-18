@@ -10,11 +10,11 @@ Made it to look like the tabline from [vim-ctrlspace](https://github.com/vim-ctr
 
 Configure tab labels within Terminal Vim with a very succinct output.
 
-![Tabline Screenshot](https://raw.github.com/mkitt/tabline.vim/master/screenshots/tabline.png)
+![Tabline Screenshot](https://github.com/JagdCake/tabline.vim/blob/master/screenshots/tabline.png)
 
 - Tab number
+- \+ if the current buffer has been modified
 - Filename (basename only)
-- [+] if the current buffer has been modified
 
 Tabs in this case, refer to Vim Tabs and not the Terminal.app tabs.
 
