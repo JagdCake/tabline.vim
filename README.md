@@ -1,3 +1,8 @@
+# Changes in this fork
+Made it to look like the tabline from [vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace), only without the 'X' at the end:
+- buffer modification indicator moved between tab number and filename
+- removed square brackets around modification indicator 
+- no colon before filename
 
 <img src="https://mkitt.net/apple-touch-icon.png" width="80px" height="80px" />
 
